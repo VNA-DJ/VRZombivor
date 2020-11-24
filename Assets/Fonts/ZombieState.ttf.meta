@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 630de4d90a6cce54388de163098e7077
+timeCreated: 1484394825
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZombieState
+  fontNames:
+  - ZombieState
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

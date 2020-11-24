@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2fb2204d4225d2742854a14f0a50affb
+timeCreated: 1484339687
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hunger Games
+  fontNames:
+  - Hunger Games
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

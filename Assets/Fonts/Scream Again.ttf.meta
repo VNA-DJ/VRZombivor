@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5efb813da816fdf47bc2a1ec09c13555
+timeCreated: 1485012755
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scream Again
+  fontNames:
+  - Scream Again
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a362d4e57a8b0b4499b6a1bd2e027d8
+timeCreated: 1484394825
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie
+  fontNames:
+  - Zombie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
